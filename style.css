@@ -20,7 +20,7 @@ font-family: 'Chivo Mono', monospace;
     --branco: #F0F2F2;
     --preto-shadow: #cfd6e4;
 
-    --fonte-padrao: 'Times New Roman', monospace, Arial, sans-serif, 'cursive';
+    --fonte-padrao: 'Chivo Mono','Times New Roman', monospace, Arial, sans-serif, 'cursive';
     --fonte-destaque: 'Bebas Neue', sans-serif, 'cursive';
     --fonte-destaque2: 'Montserrat', sans-serif, 'cursive';
 }
